@@ -1,0 +1,23 @@
+---
+layout: default
+title: Theory
+permalink: /theory/
+---
+
+<div class="home">
+
+  <h1 class="page-heading">These are my theories. I like theories evidenced by experience that can be generalized across subject matter boundaries.</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+  
+
+</div>

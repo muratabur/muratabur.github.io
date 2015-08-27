@@ -2,11 +2,11 @@
 layout: post
 title:  "Banking Data Standards"
 date:   2015-08-08 12:00:00
-categories: startup-guide
+categories: data standards, startups
 ---
 
 # A standard success story
-One of my favorite stories of data standards is that of General Transit Feed Spec ([GTFS][1]) which in a few short years has gone from a dream to a reality. The full story is [here][2]. In a nutshell, a visionary public servant combined with a civic minded technolgy company to create the standard to publish transit data in a useful format for customers. They started out in a small town and ended up changing the world with very little investment or marketing budget. Moreover, the project is open source and growing organically. Basically, perfect execution for implementing a global data standard and further proof that visionary innovation does not come from the big players.
+One of my favorite stories of data standards is that of General Transit Feed Spec ([GTFS][1]) which in a few short years went from a holiday dream to a reality. The full story is [here][2]. In a nutshell, a visionary public servant combined with a civic minded technology company to create the standard to publish transit data in a useful format for developers. They started out small (sorry Portland) and ended up changing the world with very little investment or marketing budget. Moreover, the project is open source and growing organically. Basically, perfect execution for implementing a global data standard and further proof that visionary innovation does not come from the big players.
 
 In my opinion, there are a few key things that stand out which drove the success of the project:
 
