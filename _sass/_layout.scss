@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    border-top: 5px solid $brand-color;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -11,6 +11,8 @@
 }
 
 .site-title {
+    font-family:   $title-font;
+    text-color: $brand-color;
     font-size: 26px;
     line-height: 56px;
     letter-spacing: -1px;
@@ -170,6 +172,7 @@
 }
 
 .post-list {
+    display: inline-block;
     margin-left: 0;
     list-style: none;
 
@@ -187,6 +190,7 @@
     display: block;
     font-size: 24px;
 }
+
 
 
 
@@ -208,6 +212,9 @@
 }
 
 .post-content {
+    display: inline-block;
+    text-align: justify;
+    float: left;
     margin-bottom: $spacing-unit;
 
     h2 {
@@ -233,4 +240,36 @@
             font-size: 18px;
         }
     }
+}
+
+.post-pic {
+    height: 300px;
+    width: 100%;
+    clip: rect(20px,0px,0px,20px);
+}
+
+.fade {
+    opacity: 1;
+    transition: opacity .25s ease-in-out;
+    -moz-transition: opacity .25s ease-in-out;
+    -webkit-transition: opacity .25s ease-in-out; 
+}
+
+.fade:hover {
+    opacity: 0.5;
+}
+    
+
+aside {
+    display: inline-block; 
+    float: right;
+    width: 20%;
+    text-align: justify; 
+    margin-right: -200px;
+    margin-left: $spacing-unit;
+    font-size: 12px
+}
+
+.brand {
+    text-color: $brand-color;
 }
