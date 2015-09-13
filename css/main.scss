@@ -4,21 +4,21 @@
 @charset "utf-8";
 
 // Our Fonts
-@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
-@import url(https://fonts.googleapis.com/css?family=Special+Elite);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 // Our variables
-$title-font:		'Special Elite';
-$base-font-family: 	Impact, Helvetica, sans-serif;
+$title-font:		'Open Sans';
+$base-font-family: 	'Open Sans', Impact, sans-serif;
 $base-font-size:   	16px;
 $small-font-size:  	$base-font-size * 0.875;
 $base-line-height: 	1.5;
 
 $spacing-unit:     	25px;
 
-$background-color:  #ffffff;
+$background-color:  #FFFFFF;
 $text-color: 		#010101;
 $brand-color:      	#B22B2B;
+$link-color:		orange;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
