@@ -2,10 +2,11 @@
 layout: default
 title: Home
 cover: false
-about: 'about.html'
+about: about
 ---
 
 <header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
+
     <nav class="main-nav overlay clearfix">
             {% if page.logo %}
                 <a class="blog-logo" href="{{ site.baseurl }}">
@@ -14,6 +15,7 @@ about: 'about.html'
             {% endif %}
         <a class="subscribe-button icon-feed" href="{{ site.baseurl }}rss.xml">Subscribe</a>
     </nav>
+
     <div class="vertical">
         <div class="main-header-content inner">
             <h1 class="page-title">{{ site.name }}</h1>
@@ -37,24 +39,32 @@ about: 'about.html'
     {% for post in paginator.posts %}
 
     <article class="post">
+
         <header class="post-header">
             <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <p> 
+            {{ post.content | number_of_words }} words
+            {% if post.categories.size > 0 %}   
+            {{ post.categories | array_to_sentence_string | prepend: 'about ' }} 
+            {% endif %}
+
+            &#151; {{ post.content | reading_time }} of reading
+            
+            </p>
         </header>
-        <section class="post-excerpt">
-            {{ post.excerpt }} <a class="read-more" href="{{ post.url }}">&raquo;</a>
-        </section>
+
+
         <footer class="post-meta">
             {% if site.author %}
-                <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
+                <a href="/about/"><img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" /></a>
                 {{ site.author }}
             {% endif %}
-            {% if post.categories.size > 0 %} 
-                {{ post.categories | array_to_sentence_string | prepend: 'on ' }} 
-            {% endif %}
+
             <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
                 {{ post.date | date_to_string }}
             </time> 
         </footer>
+
     </article>
 
     <!-- Capser below -->
@@ -79,3 +89,51 @@ about: 'about.html'
     {% include pagination.html %}
 
 </main>
+
+<style>
+
+path {
+  fill: #222222;
+  stroke: #f04124;
+  stroke-linejoin: round;
+}
+
+</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+<script>
+
+var width = 960,
+    height = 300;
+
+var svg = d3.select(".vertical").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+svg.append("g")
+    .attr("transform", "translate(" + (width / 2) + "," + (height / 2) + ")")
+  .append("path")
+    .attr("d", d3.svg.symbol().type("triangle-down").size(5000))
+    .call(twizzle, 10000)
+    .call(plonk, 2000);
+
+function twizzle(path, duration) {
+  path.transition("twizzle")
+      .duration(duration)
+      .attrTween("transform", function() { return d3.interpolateString("rotate(0)", "rotate(720)"); })
+    .transition()
+      .duration(Math.random() * duration)
+      .each("end", function() { path.call(twizzle, duration); });
+}
+
+function plonk(path, duration) {
+  path.transition("plonk")
+      .duration(duration)
+      .style("stroke-width", "30px")
+    .transition()
+      .style("stroke-width", "0px")
+    .transition()
+      .duration(Math.random() * duration)
+      .each("end", function() { path.call(plonk, duration); });
+}
+
+</script>

@@ -1,5 +1,5 @@
 ---
-# Let's add a comment to make this file sass-y.
+# Lets add a comment to make this file sass-y.
 # Change this file for any custom CSS.
 ---
 
@@ -8,7 +8,52 @@
 	display:inline;
 }
 
+
+@import url(https://fonts.googleapis.com/css?family=Rokkitt);
+
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax"
 ;
+
+
+//colors
+
+$red:	#f04124;
+$grey:	#e9e9e9;
+$blue:	#2ba6cb;
+$black:	#222222;
+
+num, sup {
+	color: $red;
+}
+
+.vertical {
+	background-color: $blue;
+}
+
+section a, .vertical a {
+	color: $blue;
+	text-decoration: none;
+}
+section a:hover, .vertical a:hover {
+	color: $red;
+}
+
+.post-content p {
+	text-align: justify;
+}
+
+aside {
+	position: absolute;	
+	font-size: 1.2rem;
+	display: inline;
+	float: left;
+	text-align: justify;
+	margin-right: -250px;
+	width: 200px;
+	right: 0;
+	top: auto;
+	line-height: 1.5;
+}
