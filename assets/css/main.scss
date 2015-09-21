@@ -41,8 +41,13 @@ section a:hover, .vertical a:hover {
 	color: $red;
 }
 
+.post-content {
+	width: 1000px;
+}
+
 .post-content p {
 	text-align: justify;
+	width: 55%;
 }
 
 aside {
@@ -56,4 +61,18 @@ aside {
 	right: 0;
 	top: auto;
 	line-height: 1.5;
+}
+
+
+span.sidenote {
+  float: right;
+  clear: right;
+  margin-right: -60%;
+  width: 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1.0rem;
+  line-height: 1.6;
+  vertical-align: baseline;
+  position: relative;
 }
