@@ -1,15 +1,18 @@
 ---
 layout: post
-title:  "Life in Acceleration"
 date:   2015-05-31 12:00:00
-categories: startup-guide
+title:  "Life in Acceleration"
+author:	MA
+type:	exp
+pic:	/images/particle-accelerator.jpg
+tags:	acceleration, physics
 ---
 
-<aside>
-Heisenberg's uncertainty principle states that position and momentum are undeniably linked so that improved accuracy of one results in reduced accuracy of the other. Acceleration touches both and is hence fundamental to our understanding of the world around us.
-</aside>
 
 I think acceleration is probably the only parameter that matters in life. Or at least a pretty important one. It's what keeps us glued to the surface of the earth after all. You could say it gives the universe order and keeps us grounded - no pun intended. So life in acceleration is actually a very *natural* thing. It just isn't always clear how to get that initial jolt. This is where accelerators come in, to be your spark plug and set you on your way. 
+<span class="sidenote">
+Heisenberg's uncertainty principle states that position and momentum are undeniably linked so that improved accuracy of one results in reduced accuracy of the other. Acceleration touches both and is hence fundamental to our understanding of the world around us.
+</span>
 
 We have been in [Microsoft Ventures London](https://www.microsoftventures.com/locations/london "MS Ventures London") these past 3 months and cannot recommend the program enough. It is basically a collection of great training sessions, office space, loads of cloud credits and an amazing network of potential clients and investors - all for FREE. Many people we meet are extremely skeptical of the program when we tell them so it is worth clarifying. Microsoft takes no equity, does not require you to use any Microsoft technology Windows/Office/Azure/Lumia/Xbox and has no rights to use/audit/acquire any IP from your software/product. But even if you are not lucky enough to join Microsoft Ventures, there is most certainly *an accelerator near you* where you can get that initial boost. London has some great ones like [Techstars][1] , [StartupBootcamp][2] and [Seedcamp][3] to name a few.
 
