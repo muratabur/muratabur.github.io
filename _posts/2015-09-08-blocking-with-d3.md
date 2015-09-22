@@ -10,7 +10,7 @@ D3 is a beautiful, intuitive and incredibly flexible Javascript library. You can
 
 Hats off to Mike Bostock who has also made the [home page][d3] and his personal examples all available and interactive via [bl.ocks.org][blocks-mb]. It makes for a very user-friendly learning experience with a lot of good introductory and advanced examples. He also kindly hosts any D3 blocks you push up to a GitHub Gist in the same user-friendly format.
 
-Here are some [bl.ocks][blocks-mu] made with [D3][d3]. 
+Here are some of my [bl.ocks][blocks-mu] made with [D3][d3]. 
 
 [d3-book]:		http://chimera.labs.oreilly.com/books/1230000000345
 [blocks-mb]:	http://bl.ocks.org/mbostock

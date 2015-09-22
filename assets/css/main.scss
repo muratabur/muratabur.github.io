@@ -47,7 +47,7 @@ section a:hover, .vertical a:hover {
 
 .post-content p {
 	text-align: justify;
-	width: 55%;
+	width: 70%;
 }
 
 aside {
@@ -55,9 +55,10 @@ aside {
 	font-size: 1.2rem;
 	display: inline;
 	float: left;
-	text-align: justify;
+	text-align: right;
 	margin-right: -250px;
-	width: 200px;
+	margin-top:	-55px;
+	width: 25%;
 	right: 0;
 	top: auto;
 	line-height: 1.5;

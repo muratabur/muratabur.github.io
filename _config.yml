@@ -5,7 +5,7 @@ meta_description: "Thoughts, experiences and theories"
 markdown: kramdown
 highlighter: pygments
 logo: true
-paginate: 15
+paginate: 20
 baseurl: /
 domain_name: 'http://'
 google_analytics: 'UA-XXXXXXXX-X'
@@ -13,3 +13,4 @@ google_analytics: 'UA-XXXXXXXX-X'
 # Details for the RSS feed generator
 url:            'http://muratabur@github.io'
 author:         'murat'
+author_description:	'The author is present'
