@@ -9,7 +9,6 @@ tags:	acceleration, physics
 ---
 
 
-
 I think acceleration is probably the only parameter that matters in life. Or at least a pretty important one. It's what keeps us glued to the surface of the earth after all. You could say it gives the universe order and keeps us grounded - no pun intended. So life in acceleration is actually a very *natural* thing. It just isn't always clear how to get that initial jolt. This is where accelerators come in, to be your spark plug and set you on your way. 
 <span class="sidenote">
 Heisenberg's uncertainty principle states that position and momentum are undeniably linked so that improved accuracy of one results in reduced accuracy of the other. Acceleration touches both and is hence fundamental to our understanding of the world around us.
