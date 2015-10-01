@@ -1,5 +1,5 @@
-name: Murat Abur
-description: Streams of unconciousness
+name: rubatarum
+description: streams of unconciousness...
 meta_description: "Thoughts, experiences and theories"
 
 markdown: kramdown
@@ -12,6 +12,6 @@ google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
 url:            'http://muratabur@github.io'
-author:         'murat'
+author:         'rubatarum'
 author_description:	'The author is present'
 
