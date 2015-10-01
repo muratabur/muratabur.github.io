@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-cover: false
+cover: true
 about: about
 ---
 
@@ -21,56 +21,64 @@ about: about
             <h1 class="page-title">{{ site.name }}</h1>
             <h2 class="page-description">
                 {% if site.description %} {{ site.description }}. {% endif %}
-                {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> About me </a> {% endif %}
+                {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> about</a> {% endif %}
             </h2>
         </div>
     </div>
     <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
 </header>
 
-
+<!-- MAIN PAGE -->
 <main id="content" class="content" role="main">
+	<article class="post">
+	I am in pursuit of understanding how the world works. These are little +1's I have picked up along the way. 
+	My hope is that at some point they may add up to a GUT.
+	</article>
 
-
-    <div class="extra-pagination inner">
+<!-- <div class="branches">
+	<h1 class="branch"><a href="exp.html">EXP</a></h1>
+	<h1 class="branch"><a href="theory.html">THEORY</a></h1>
+	<h1 class="branch"><a href="{{ site.baseurl }}{{ page.about }}">ABOUT ME</a></h1>
+</div>
+ -->    
+ <div class="extra-pagination inner">
         {% include pagination.html %}
     </div>
 
     {% for post in paginator.posts %}
-
+    
     <article class="post">
 
         <header class="post-header">
             <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-            <p> 
-            {{ post.content | number_of_words }} words
-            <!--
-            {% if post.categories.size > 0 %}   
-            {{ post.categories | array_to_sentence_string | prepend: 'about ' }} 
-            {% endif %}
-
-            &#151; {{ post.content | reading_time }} of reading
-            -->
-            
-            </p>
         </header>
 
 
+
         <footer class="post-meta">
-            {% if site.author %}
+            <!-- {% if site.author %}
                 <a href="/about/"><img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" /></a>
                 {{ site.author }}
             {% endif %}
-
-            <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
+ -->
+       		<time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
                 {{ post.date | date_to_string }}
+            
+            ... {{ post.content | number_of_words }} words
+  
+            {{ post.categories | array_to_sentence_string | prepend: 'about ' }} 
             </time> 
+ 
+     
         </footer>
 
     </article>
+    {% endfor %}
+
+    {% include pagination.html %}
 
     <!-- Capser below -->
-<!--     <article class="{{post_class}}">
+<!-- <article class="{{post_class}}">
     <header class="post-header">
         <h2 class="post-title"><a href="{{url}}">{{{title}}}</a></h2>
     </header>
@@ -86,9 +94,7 @@ about: about
     </article> -->
     <!--  -->
 
-    {% endfor %}
 
-    {% include pagination.html %}
 
 </main>
 
@@ -102,6 +108,7 @@ path {
 
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+
 <script>
 
 var width = 960,
