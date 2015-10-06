@@ -8,10 +8,10 @@ logo: true
 paginate: 20
 baseurl: /
 domain_name: 'http://'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-68523005-1'
 
 # Details for the RSS feed generator
-url:            'http://muratabur@github.io'
+url:            'http://muratabur.github.io'
 author:         'rubatarum'
 author_description:	'The author is present'
 
