@@ -3,7 +3,7 @@ layout: post
 date:   2015-05-31 12:00:00
 title:  "Life in Acceleration"
 type:	exp
-cover:	/images/particle-accelerator.jpg
+cover:	/images/proton-decay.jpg
 categories:	acceleration
 ---
 

@@ -5,8 +5,8 @@ date:   2015-08-08 12:00:00
 categories: data standards, startups
 ---
 
-# A standard success story
-One of my favorite stories of data standards is that of General Transit Feed Spec ([GTFS][1]) which in a few short years went from a holiday dream to a reality. The full story is [here][2]. In a nutshell, a visionary public servant combined with a civic minded technology company to create the standard to publish transit data in a useful format for developers. They started out small (sorry Portland) and ended up changing the world with very little investment or marketing budget. Moreover, the project is open source and growing organically. Basically, perfect execution for implementing a global data standard and further proof that visionary innovation does not come from the big players.
+### A standard success story
+One of my favorite stories of data standards is that of General Transit Feed Spec ([GTFS][1]) which in a few short years went from someone's holiday dream to a global reality. The full story is [here][2]. In a nutshell, a visionary public servant combined with a civic minded technology company to create the standard to publish transit data in a useful format for developers. They started out small (sorry Portland) and ended up changing the world with very little investment or marketing budget. Moreover, the project is open source and growing organically. Basically, perfect execution for implementing a global data standard and further proof that visionary innovation does not come from the big players.
 
 In my opinion, there are a few key things that stand out which drove the success of the project:
 
@@ -16,9 +16,9 @@ In my opinion, there are a few key things that stand out which drove the success
 4. **Optional**: Optional standards mean they can be adopted if and only if they are good. If there was a multi-million dollar government program to harmonize and create a proprietary transit standard it undoubtably would not have been as successful.
 5. **Friendly**: Machines and humans can injest reports/data easily which removes any entry barrier. It is also published online with tons of documentation, examples and a free, open forum for the community. 
 
-# A standard failure
+### A standard failure
 
-But one might try and argue that banking has a data standard already, XBRL. While this works well for documents and reports, XBRL and other XML-based data formats (like FpML) have not been anywhere near optimal. If the financial crisis was not evidence ennough that the format is broken, we can see that XBRL has failed all five of the key tenants above of what a successful standard should embody. 
+But one might try and argue that banking has data standards already like XBRL, FpML, FIX etc. While this works well for documents and reports, XBRL and other XML-based data formats (like FpML) have not been anywhere near optimal. If the financial crisis was not evidence ennough that the format is broken, we can see that XBRL has failed all five of the key tenants above of what a successful standard should embody. 
 
 1. It is so complicated that there are entire businesses built around converting an excel file to XBRL. 
 2. The resource burden placed on smaller banks to produce and populate these files is too large to do internally and hence they are forced to waste resources on poor, manual 3rd party vendor solutions. 
@@ -30,10 +30,10 @@ But one might try and argue that banking has a data standard already, XBRL. Whil
 
 Before we go further, we need to accept that 
 
-# Problems with banking data
+### Problems with banking data
 - The data is living. A financial product's core fields change during its lifetime. Moreover, these changes are unpredictable in terms of time (when they will occur) and quantity (how much affect they will have).
 
-- The fields are inter-linked. A change in one field can have quantitative and/or qualitative effects on other fields or other products. A change in *interest rate* will change *monthly payment*
+- The fields are inter-linked. A change in one field can have quantitative and/or qualitative effects on other fields or other products. A change in *interest rate* will change *monthly payment*.
 
 - ds
 
