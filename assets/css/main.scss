@@ -13,7 +13,7 @@
 // FONTS
 /////////////////////////////////////////////////
 
-@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+@import url(https://fonts.googleapis.com/css?family=Cinzel);
 
 /////////////////////////////////////////////////
 // COLORS
@@ -29,6 +29,7 @@ $black:	#222222;
 /////////////////////////////////////////////////
 
 body, h1, h2, h3 {
+	font-family: 'Open Sans', sans-serif;
 	letter-spacing: 0px;
 }
 
@@ -54,31 +55,44 @@ section a:hover, .vertical a:hover {
 /////////////////////////////////////////////////
 
 .post-content {
-	width: 1000px;
+	max-width: 1000px;
 }
 
-.post-content p {
-	text-align: justify;
-	width: 70%;
+.post-content p, h3 {
+	text-align: left;
+	width: 100%;
 }
 .post-title {
-	text-transform: uppercase;
-	font-family: 'Marcellus', serif;
+	font-weight: 400;
+	font-family: 'Cinzel', serif;
 }
+.post-image {
+	width: 100%;
+}
+
+.post-chart {
+	right: 0;
+	width: 130%;
+}
+
 
 num, sup {
 	color: $red;
 }
+num {
+	font-size: 1.5rem;
+	margin-left: -1rem;
+}
 
 aside {
 	position: absolute;	
-	font-size: 1.2rem;
-	display: inline;
+	font-size: 1rem;
+	display: inline-block;
 	float: left;
-	text-align: right;
-	margin-right: -250px;
-	margin-top:	-55px;
-	width: 25%;
+	text-align: left;
+	margin-right: -300px;
+	margin-top:	-5.5rem;
+	width: 30%;
 	right: 0;
 	top: auto;
 	line-height: 1.5;
