@@ -2,7 +2,7 @@
 layout: post
 title:  "Why Banking Needs Data Standards"
 date:   2015-08-08 12:00:00
-categories: [data standards, startups]
+categories: [data standards, banking]
 ---
 
 It is clear the banking system needs technological innovation and recent history has demonstrated the incredible power of collaborative open-source projects to spark that innovation. I will start by highlighting an example from and arguably less sophisticated sector to get all the pessimists out of the room.
@@ -36,27 +36,7 @@ Banks have approached this new customer in the same way they would have approach
 
 In order to serve this new customer, banks need to embrace a common, collaborative, standards-based system which has core banking data at its heart. The first step in this process is therefore the establishment of a standardised data schema for core banking products.
 
-<!-- 
-While this works well for documents and reports, XBRL and other XML-based data formats (like FpML) have not been anywhere near optimal. If the financial crisis was not evidence ennough that the format is broken, we can see that XBRL has failed all five of the key tenants above of what a successful standard should embody. 
 
-1. It is so complicated that there are entire businesses built around converting an excel file to XBRL. 
-2. The resource burden placed on smaller banks to produce and populate these files is too large to do internally and hence they are forced to waste resources on poor, manual 3rd party vendor solutions. 
-3. XBRL is often described as XML on steroids which is an apt description of the level of unnecessary detail it contains.
-4. The format was imposed on banks rather than being adopted due to its utility.
-5. The inherent structure of XBRL creates unnatural hierarchies and sparsely populated documents rather than a data format for injestion.
-
----
-
-Before we go further, we need to accept that 
-
-### Problems with banking data
-- The data is living. A financial product's core fields change during its lifetime. Moreover, these changes are unpredictable in terms of time (when they will occur) and quantity (how much affect they will have).
-
-- The fields are inter-linked. A change in one field can have quantitative and/or qualitative effects on other fields or other products. A change in *interest rate* will change *monthly payment*.
-
-- ds
-
- -->
 
 
 [gtfs]:			http://...
