@@ -2,7 +2,7 @@
 layout: 	post
 title: 		"A new kind of accelerator"
 date:		2015-08-27 12:00:00
-pic: 		/images/sotsog.jpg
+cover: 		/images/sotsog.jpg
 type:		exp
 categories: [acceleration, startups]
 ---
@@ -14,16 +14,16 @@ The essential recipe is still bringing young tech companies together with a cura
 
 So what are they doing differently? There are a few theories:
 
-- **YC gets first pick**
+- **YC gets first pick**: 
 	Maybe, but the team that gets first pick in the NFL draft rarely wins the SuperBowl. Plus, given the super early stage of the startups, often the company coming out resembles nothing like the one that went in. It is unlikely that they *know* how to pick winners through some secret magic as they too, pick a bunch of failures and also fail to pick a bunch of winners.
 
-- **PG is a genius**
+- **PG is a genius**: 
 	Yes, Paul Graham is brilliant, I treasure some of his blog posts like gold dust. But there are loads of brilliant people and posts out there, and this brilliance is now easily accessible to everyone (interweb!). So I am doubtful that YC has a *higher level of understanding* than everyone else and have not shared it already. 
 
-- **Access to capital**
+- **Access to capital**: 
 	People often make the mistake that funding=success and cite that YC companies on average get a lot more funding on Demo Day. Then why do so many still fail, and why don't VCs just throw money at any startup to make it succeed? Also, VCs try desperately to make themselves accessible and scout the market, you will see reps at all the Demo Days of all the accelerators. So I would not cite access to capital as key differentiator.
 
-- **Network**
+- **Network**: 
 	When talking about scaling, you always look for network effects and I think this is the key differentiator and the *hidden value* in the YC brand. In fact it is so hidden, that even [some YC alumni fail to discover it in their time there.][how-not-to-die]  
 
 
@@ -41,9 +41,8 @@ As a founder, you can't tell your friends, family or colleagues the above things
 Guy Kawasaki has a great [presentation][ice-business] which tell the story of the ice-making industry. It starts with people cutting ice blocks out of frozen lakes, then moves to central ice-factories that deliver ice to eventually the home fridge-freezer. He sees each of these as "jumps" in the curve and aptly points out that ice cutters didn't invent the ice factory and the ice factory didn't become fridge companies. This comes back to the idea that even though they had all the customers, they didn't see the next jump in the curve because they knew what customers wanted (ice) but did't know what customers needed. And this is the real job of the entrepreneur.
 
 So the entrepreneur has two objectives:
-
-1. Come up with a plan (customer want)
-2. Execute on the plan (customer need)
+> 1. Come up with a plan (customer want)
+> 2. Execute on the plan (customer need)
 
 The first objective is typically called "the problem statement" or "your billion dollar idea" and usually comes from a problem the founders have identified or experienced themselves. While they will have a vague idea like "catching a cab is a bitch," the actual pain point will not be clear until more work has been done. This is usually quite straightforward and is about asking the right questions to the right people. The guys at FounderCentric have some good [flashcards][custdev] on CustDev. The easiest part as most customers know what they want Books like the Lean Startup suggest that frequent discussions with customers and iterating on quick, cheap stabs at a product will help you achieve the second objective. But ideas are easy, [execution is everything][exec-is-everything], right?
 
