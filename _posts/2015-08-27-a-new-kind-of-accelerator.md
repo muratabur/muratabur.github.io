@@ -7,7 +7,7 @@ type:		exp
 categories: [acceleration, startups]
 ---
 
-The modern "startup accelerator" model was popularized by Y-Combinator in 2005 as a means of taking a small group of inexperienced but talented individuals and giving them 3 months of freedom to grow ideas into businesses. It was heavily focused on software businesses and billion-dollar opportunities. The success has been unfathomable with a number of the incubated startups growing into billion-dollar *unicorn* companies in a few short years. Since then the number of accelerators around the world has been growing almost as fast as the number of startups. 
+The modern "startup accelerator" model was popularized by Y-Combinator in 2005 as a means of taking a small group of inexperienced but talented individuals and giving them 3 months of freedom to grow ideas into businesses. It was heavily focused on software businesses and billion-dollar opportunities. The success has been unfathomable with a number of the incubated startups growing into billion-dollar [unicorn companies][unicorn] (like Dropbox, AirBnB, Stripe, Docker, Zenefits) in a few short years. Since then the number of accelerators around the world has been growing almost as fast as the number of startups. 
 
 ### The YC dilemma
 The essential recipe is still bringing young tech companies together with a curated group of mentors but few programs outside the valley are able to hold a candle to the ridiculous success of Y-Combinator. Whether you rank it by valuation, funding, jobs created or just revolutionary tech, Y Combinator cohorts simply stand out from the crowd.
@@ -28,7 +28,7 @@ So what are they doing differently? There are a few theories:
 
 
 ### Founder secrets 
-The hidden value YC actually delivers is its close proximity and access to founders running $5mn, $50mn, $50bn and $500bn businesses. Successful founders from decades of Silicon Valley entrepreneurs and *successful founders who are now alumni*.Who could you go to for advice running a $1bn software company in Kansas? No-one, so $1bn software companies don't often come from Kansas.  And successful founders breed more successful founders because the best advice any founder ever gets is from another founder. I'm not talking about advice from Marc Andreesen and his days at Netscape. That's lore from 20 years ago and most of that is already published in his blogs and memoirs. I'm talking about the humiliating and awful truth that startup founders only share with each other, and only in person, never in writing. No one blogs *this* stuff.
+The hidden value YC actually delivers is its close proximity and access to founders running $5mn, $50mn, $50bn and $500bn businesses. Successful founders from decades of Silicon Valley entrepreneurs and *successful founders who are now alumni*. [YC companies hang out together, integrate with each others' products and ultimately recomend each other to their investors][yc-infographic]. Successful founders breed more successful founders because the best advice any founder ever gets is from another founder. I'm not talking about advice from Marc Andreesen and his days at Netscape. That's lore from 20 years ago and most of that is already published in his blogs and memoirs. I'm talking about the humiliating and awful truth that startup founders only share with each other, and only in person, never in writing. No one blogs *this* stuff.
 
 > Like the guy who maxed out his credit card to bridge 3 weeks of bankruptcy to pay his employees before landing a major contract. Or the founder who cleverly used the fact that she was 6 months pregnant to her advantage during her Series A. Or the CTO that persuaded a cloud provider into volunteering $800k of free cloud credit. The story of the team that negotiated a $1mn contract before even incorporating the company. The guy that spent 18 hours a day for a month on the subway, manually signing up commuters to demonstrate growth and get feedback on his app. The dude that cleaned toilets saturday mornings to design a "find-a-cleaner" site. The founder that failed to raise a dime 6 times before landing a $20mn check. The founder that explained that enterprise sales is measured in liters of alcohol, not in phone calls or meetings. How to avoid liability in your SLAs, when to tell a customer to f*&# off, how to keep tabs your competition, how to qualify for tax breaks, how to pitch your unauthorised personal data mining software as a waste collection service and get the city council to fund it... 
 
@@ -59,10 +59,11 @@ So with this in mind a new kind of accelerator program is born. A 6-month progra
 
 As a result of this simple process, you will have "further up the chain" founders personally invested in helping new startups succeed. Moreover, these seed, venture and growth stage startup founders will build relationships with each other while advising and serving on boards of new startups. The goal is to increase interaction vertically and horizontally across the startup ecosystem for radically more effective network effects. A founder-mentor should not be able to accept an offer from more than 2 or 3 companies. Some equity (TBD) will also go to the accelerator program fund in exchange for the usual 15k, office space, etc.
 
-
-[how-not-to-die]: 	http://www.paulgraham.com/die.html
-[ice-business]:		https://www.youtube.com/watch?v=Mtjatz9r-Vc
-[custdev]:			http://custdevcards.com/
+[unicorn]:				https://en.wikipedia.org/wiki/Unicorn_(finance)
+[how-not-to-die]: 		http://www.paulgraham.com/die.html
+[yc-infographic]:		http://infographics.fastcompany.com/magazine/163/y-connector-xl.html
+[ice-business]:			https://www.youtube.com/watch?v=Mtjatz9r-Vc
+[custdev]:				http://custdevcards.com/
 [exec-is-everything]:	http://sivers.org/multiply
 [ceos-are-made]:		http://www.bhorowitz.com/making_yourself_a_ceo
 [founder-mentors]:		http://techcrunch.com/2015/03/22/mentors-are-the-secret-weapons-of-successful-startups/

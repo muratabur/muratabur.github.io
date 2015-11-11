@@ -21,7 +21,7 @@ about: about
             <h1 class="page-title">{{ site.name }}</h1>
             <h2 class="page-description">
                 {% if site.description %} {{ site.description }}. {% endif %}
-                {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> about</a> {% endif %}
+                {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> from me</a> {% endif %}
             </h2>
         </div>
     </div>
@@ -48,11 +48,17 @@ about: about
     {% for post in paginator.posts %}
     
     <article class="post">
-
+        
         <header class="post-header">
             <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
         </header>
-
+        {% if post.cover %}
+        <a href="{{ post.url }}">
+        <div class="post-image" style=" background-image:url( {{ post.cover}} );">
+        </div></a>
+        {%else%}
+        {% endif %}
+        
 
 
         <footer class="post-meta">

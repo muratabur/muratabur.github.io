@@ -62,12 +62,16 @@ section a:hover, .vertical a:hover {
 	text-align: left;
 	width: 100%;
 }
-.post-title {
-	font-weight: 400;
-	font-family: 'Cinzel', serif;
-}
+// .post-title {
+// 	font-weight: 400;
+// 	font-family: 'Cinzel', serif;
+// }
 .post-image {
 	width: 100%;
+	height:200px;
+	background: no-repeat;
+	background-size: 800px 500px;
+	background-position: center;
 }
 
 .post-chart {

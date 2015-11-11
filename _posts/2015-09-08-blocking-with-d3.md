@@ -2,6 +2,7 @@
 layout: post
 date: 2015-09-08 12:00:00
 title: "HTML painting"
+cover: /images/d3-usa.png
 categories: programming
 ---
 
