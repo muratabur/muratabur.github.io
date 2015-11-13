@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2015-11-11 12:00:00
-title: "What differentiates you?"
+title: "What differentiates your business?"
 cover: /images/same-same-but-different.png
 categories: [startups, competition]
 ---

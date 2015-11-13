@@ -52,12 +52,14 @@ about: about
         <header class="post-header">
             <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
         </header>
+        <div class="layer">
         {% if post.cover %}
         <a href="{{ post.url }}">
         <div class="post-image" style=" background-image:url( {{ post.cover}} );">
         </div></a>
         {%else%}
         {% endif %}
+        </div>
         
 
 

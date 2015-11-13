@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2015-09-20 12:00:00
-title: "Web programming sucks"
-type: 
-image:
+date: 	2015-09-20 12:00:00
+title: 	"Web programming sucks"
+type: 	exp
+cover:	/images/html-css-js.png
 categories: programming
 ---
 
@@ -38,7 +38,7 @@ Then I stumbled across [D3][d3]. It was a shining light of DOM manipulation at t
 
 ### Overcoming.js
 There are hundreds of sites dedicated to hating on JS, but I think [JSFuck][jsfck] is my favorite. For myself, the most bothersome aspect is the notion of callbacks. It can take a simple program into an endless series of mind loops, requiring the programmer to keep multiple levels of [Inception][inception]-style nested logic. And just like the inception limit of inceptions within inceptions in the movie Inception, good javascript needs an enforced limit of callbacks. The same way good programs limit the number of nested for loops. Javascript has it's origins at Netscape, being developed under pressure by a corporation to compete with Microsoft so it is probably safe to assume it was underfunded, rushed and never expected to outlive its immediate purpose by 20 years. As a new language, the corporate objective for adoption needed it to compete with VB, feel welcoming to C developers but sound like Java. Unfortunately, javascript doesn't seem to be going away anytime soon. <sup>3.</sup> 
-<aside><num>3.</num>You can probably say the same things for VBA.</aside>  
+<aside><num>3.</num>You can probably say the same thing about VBA.</aside>  
 
 So suck it up. Accept that web programming sucks. But know deep inside that it doesn't have to.
 

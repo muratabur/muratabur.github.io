@@ -3,7 +3,7 @@ layout: post
 title:	"Startup skills from your corporate job"
 type:	exp
 date: 	2015-09-03 12:00:00
-cover: 	/images/american-psycho-business-card.jpg
+cover: 	/images/american-psycho-business-card.png
 categories: [banking, startups]
 ---
 

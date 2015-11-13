@@ -38,6 +38,10 @@ body, h1, h2, h3 {
 	background-color: $black;
 }
 
+body {
+	background-color: rgb(245, 245, 240);
+}
+
 section a, .vertical a {
 	color: $blue;
 	text-decoration: none;
@@ -62,16 +66,18 @@ section a:hover, .vertical a:hover {
 	text-align: left;
 	width: 100%;
 }
-// .post-title {
-// 	font-weight: 400;
-// 	font-family: 'Cinzel', serif;
-// }
+
 .post-image {
 	width: 100%;
 	height:200px;
 	background: no-repeat;
 	background-size: 800px 500px;
 	background-position: center;
+	opacity: 0.7;
+}
+
+.post-image:hover {
+	opacity: 1.0;
 }
 
 .post-chart {
@@ -82,6 +88,8 @@ section a:hover, .vertical a:hover {
 
 num, sup {
 	color: $red;
+	font-weight: 600;
+	padding: 5px;
 }
 num {
 	font-size: 1.5rem;
@@ -89,17 +97,16 @@ num {
 }
 
 aside {
-	position: absolute;	
-	font-size: 1rem;
-	display: inline-block;
-	float: left;
-	text-align: left;
-	margin-right: -300px;
-	margin-top:	-5.5rem;
-	width: 30%;
-	right: 0;
-	top: auto;
-	line-height: 1.5;
+	  float: right;
+  clear: right;
+  margin-right: -60%;
+  width: 50%;
+  margin-top: -6.0rem;
+  margin-bottom: 1.96rem;
+  font-size: 1.2rem;
+  line-height: 1.96;
+  vertical-align: baseline;
+  position: relative;
 }
 
 blockquote {

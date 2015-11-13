@@ -2,7 +2,7 @@
 layout: 	post
 title: 		"A new kind of accelerator"
 date:		2015-08-27 12:00:00
-cover: 		/images/sotsog.jpg
+cover: 		/images/sotsog.png
 type:		exp
 categories: [acceleration, startups]
 ---
@@ -41,6 +41,7 @@ As a founder, you can't tell your friends, family or colleagues the above things
 Guy Kawasaki has a great [presentation][ice-business] which tell the story of the ice-making industry. It starts with people cutting ice blocks out of frozen lakes, then moves to central ice-factories that deliver ice to eventually the home fridge-freezer. He sees each of these as "jumps" in the curve and aptly points out that ice cutters didn't invent the ice factory and the ice factory didn't become fridge companies. This comes back to the idea that even though they had all the customers, they didn't see the next jump in the curve because they knew what customers wanted (ice) but did't know what customers needed. And this is the real job of the entrepreneur.
 
 So the entrepreneur has two objectives:
+
 > 1. Come up with a plan (customer want)
 > 2. Execute on the plan (customer need)
 
