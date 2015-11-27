@@ -7,7 +7,8 @@ categories: [startups, competition]
 ---
 
 I had the pleasure of meeting Steven Dietz from [Upfront Ventures][upfront-vc] today at a [Slush][slush] roundtable today. The discussion was focused around what differentiates one business from another and almost more importantly, as an entrepreneur, do you know exactly what that differentiator is? 
-This is such a crucial question for someone on the other side of the table, an entrepreneur has to get the content *and* the delivery correct. What's more, as someone who is living and breathing your business every day, you *know* the answer to this question. It should be easy.
+This is such a crucial question for someone on the other side of the table, an entrepreneur has to get the content *and* the delivery correct. What's more, as someone who is living and breathing your business every day, you *know* the answer to this question. It should be easy, but it rarely is.<sup>1</sup>
+<aside><num>1</num>Thank you Steven for pointing this out.</aside>
 
 ### Same same, but different
 
