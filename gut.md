@@ -5,8 +5,8 @@ permalink: /gut/
 ---
 
 
-### What's in a GUT
-Or more correctly, what isn't? A [GUT][GUT] is a Grand Unified Theory that attempts to tie existing theories from different disciplines together. This is often necessary as two 'correct' theories can appear in conflict under certain circumstances. A typical example is [the conflict between Relativity and Quantum Mechanics][relvqm] that have caused headaches to physicists for nearly 100 years. 
+### What's in your GUT
+A [GUT][GUT] is a Grand Unified Theory that attempts to tie existing theories from different disciplines together. This is often necessary as two 'correct' theories can appear in conflict under certain circumstances. A typical example is [the conflict between Relativity and Quantum Mechanics][relvqm] that have caused headaches to physicists for nearly 100 years. 
 
 The objective of a personal GUT is that of typing together all the years of study and life experiences into a single volume of universal truths or theories that are not limited to specific domains. 
 
@@ -19,7 +19,7 @@ These inspirational people form the bedrock of humanity, our knowledge-base and 
 
 > **GUT 1**: The world is not complex.
 
-Complexity is a lack of understanding
+Complexity is a lack of understanding.
 
 > **GUT 2**: 
 

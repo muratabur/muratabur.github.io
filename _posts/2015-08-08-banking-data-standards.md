@@ -5,7 +5,7 @@ date:   2015-08-08 12:00:00
 categories: [data standards, banking]
 ---
 
-It is clear the banking system needs technological innovation and recent history has demonstrated the incredible power of collaborative open-source projects to spark that innovation. I will start by highlighting an example from and arguably less sophisticated sector to get all the pessimists out of the room.
+It is clear the banking system needs technological innovation and recent history has demonstrated the incredible power of collaborative open-source projects to spark that innovation. I will start by highlighting an example from - and arguably less sophisticated - sector to get all the pessimists out of the room.
 
 ### A standard success
 One of my favorite stories of data standards is that of General Transit Feed Spec ([GTFS][gtfs]) which in a few short years went from someone's holiday dream to a global reality. The full story is [here][gtfs-story]. In a nutshell, a visionary public servant combined with a civic minded technology company to create the standard to publish transit data in a useful format for developers. They started out small (sorry Portland) and ended up changing the world with very little investment or marketing budget. Moreover, the project is open source and growing organically. Basically, perfect execution for implementing a global data standard and further proof that visionary innovation does not come from the big players.
@@ -24,7 +24,7 @@ But before we start with our data schema, lets understand a little bit more abou
 
 The banking industry has tried implementing underlying data standards like FpML, FIX etc. but all have failed. The primary reason for the failure is simple yet subtle.
 
-> Data standards are great to foster collaboration where there is no incentive to compete (differentiation happens at the user-experience or customer service layer), but fail in highly competitive environments. 
+> Data standards improve efficiency and foster collaboration where there is no incentive to compete on the raw data (differentiation happens at the application, user-experience or customer service layer), but data standards fail in highly competitive raw data environments. 
 
 Banking products, when looked at as an economic good, are close to being perfect substitutes. This puts the banks themselves in a market with near [perfect competition][perfect-comp]. Banking products (consider a payment) are designed to be best when invisible, ideally never catching the attention of the customer. Without any opportunity to improve upon an instant, accurate and invisible customer service, banks are operating with prices very close to marginal costs.<sup>1</sup>
 <aside><num>1</num> Whether or not those costs can be reduced is another debate, and one that retail consumer focused FinTech companies are actively challenging in the lending and payments space.</aside> 
