@@ -11,7 +11,7 @@ A [GUT][GUT] is a Grand Unified Theory that attempts to tie existing theories fr
 The objective of a personal GUT is that of typing together all the years of study and life experiences into a single volume of universal truths or theories that are not limited to specific domains. 
 
 ### The problem with modern education
-This kind of broad-brush work was typical of the polymath thinkers we study in history, yet is not readily encouraged nowadays. Think of the ancient Greeks: Aristotle, Plato, Archimedes, Pythagoras... all great *thinkers*, it didn't matter whether they applied themselves to philosophy, ethics, math, science, law or politics. The rennaissance brought back aspirations of Greek thought. Leonardo would spend one day painting, the next on farmland irrigation, the next building engineering marvels, and the next dissecting a dead body (among many other things). This continued throughout history and for many famous 'mathematicians,' math was just their hobby. Or Gregor Mendel, the lonely monk who fathered genetics while tending to his plants. History is littered with contributions from *hobbyists*. A pharmcist categorising all the clouds. Darwin
+This kind of broad-brush work was typical of the polymath thinkers we study in history, yet is not readily encouraged nowadays. Think of the ancient Greeks: Aristotle, Plato, Archimedes, Pythagoras... all great *thinkers*, it didn't matter whether they applied themselves to philosophy, ethics, math, science, law or politics. The rennaissance brought back aspirations of Greek thought. Leonardo would spend one day painting, the next on farmland irrigation, the next building engineering marvels, and the next dissecting a dead body (among many other things). This continued throughout history and for many famous 'mathematicians,' math was just their hobby. Or Gregor Mendel, the lonely monk who fathered genetics while tending to his plants. History is littered with contributions from *hobbyists*. A pharmcist categorising all the [clouds][clouds]. Darwin...
 
 and my favorite hobbyist of all time: Einstein, a 3rd-tier patent office worker who after publishing quite possibly the 3 greatest scientific achievements of the century in the same year (1905), was denied an academic position and after returning to the patent office was also denied promotion.  
 
@@ -26,3 +26,4 @@ Complexity is a lack of understanding.
 
 [GUT]:		http://
 [relvqm]:	http://
+[clouds]:	https://en.wikipedia.org/wiki/Luke_Howard
