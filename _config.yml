@@ -3,7 +3,7 @@ description: streams of unconciousness...
 meta_description: "Thoughts, experiences and theories"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: true
 paginate: 20
 baseurl: /
