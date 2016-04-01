@@ -6,7 +6,7 @@ permalink: /gut/
 
 
 ### What's in your GUT
-A [GUT][GUT] is a Grand Unified Theory that attempts to tie existing theories from different disciplines together. This is often necessary as two 'correct' theories can appear in conflict under certain circumstances. A typical example is [the conflict between Relativity and Quantum Mechanics][relvqm] that have caused headaches to physicists for nearly 100 years. 
+A [GUT][GUT] is a Grand Unified Theory that attempts to tie existing theories from different disciplines together. This is often necessary as two 'correct' theories can appear in conflict under certain circumstances. A typical example is [the conflict between Relativity and Quantum Mechanics][relvqm] that has caused headaches to physicists for nearly 100 years. 
 
 The objective of a personal GUT is that of typing together all the years of study and life experiences into a single volume of universal truths or theories that are not limited to specific domains. 
 
@@ -19,11 +19,14 @@ These inspirational people form the bedrock of humanity, our knowledge-base and 
 
 > **GUT 1**: The world is not complex.
 
-Complexity is a lack of understanding.
+Complexity is a lack of understanding. Try again.
 
-> **GUT 2**: 
+> **GUT 2**: Everyone is equal.
 
+The poor, the ignorant and the weak should not be looked down upon. You can learn something from everyone and everyone is a person with feelings and thoughts. At the same time, you should not allow others to look down on you nor should you idolize the strong, the knowledgeable or the rich. If you believe everyone is equal, most religions are not for you.
 
-[GUT]:		http://
-[relvqm]:	http://
+>
+
+[GUT]:		https://en.wikipedia.org/wiki/Grand_Unified_Theory
+[relvqm]:	http://www.theguardian.com/news/2015/nov/04/relativity-quantum-mechanics-universe-physicists
 [clouds]:	https://en.wikipedia.org/wiki/Luke_Howard
