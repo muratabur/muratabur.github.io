@@ -13,11 +13,12 @@ Ultimately, the goal of starting a business is about demonstrating value that is
 
 Companies are like engines. That take in some input of raw materials, do some work and output a finished good with some waste. The best companies minimize the waste (high efficiency/gross margin), minimize the cost of raw materials (low COGS) and maximize the value of the finished good (high profit margin). Along this chain lives competition and as a company you strive for differentiation. So in differentiation you have three options: 
 
-> **Type 3** - Your raw materials are different (we only use Kopi Luwak coffee beans)
+
+> **Type 1** - Your waste is different (same coffee, same machine, but at a better price because we reuse old beans)
 >
 > **Type 2** - Your work is different (same coffee but a one of a kind espresso machine/world famous barista)
 >
-> **Type 1** - Your waste is different (same coffee, same machine, but at a better price because we reuse old beans)
+> **Type 3** - Your raw materials are different (we are the only one who use Kopi Luwak coffee beans)
 
 
 ### Type 1 companies
