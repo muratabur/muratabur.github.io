@@ -61,7 +61,7 @@ Convertible bonds (CB) are simply a bond + an option packaged together. In other
 > t0: Investor -------$100 + $99------------>  Company   
 > t1: Investor <--($100 + $95) or (equity)---  Company   
 
-But we know (from above) that the bond payout option is not really a possibility for a startup. 
+But we know (from above) that the bond payout option is not really a possibility for a startup:  
 
 - If the company's stock price has fallen below it's seed stage valuation, things are really bad and the startup won't have any money to pay back the bond, no recovery assets and the option will expire worthless. So in reality the CB returns $0.
 - If the company's stock price has soared, it converts to equity. Yay!
@@ -70,7 +70,7 @@ But we know (from above) that the bond payout option is not really a possibility
 > t0: Investor ------$100 + $99------>  Company   
 > t1: Investor <--($0) or (equity)----  Company   
 
-So what was the point of all that financial structuring if the investor just gets equity in the end anyways? What happened here? We priced the risk.
+So what was the point of all that financial structuring if the investor just gets equity in the end anyways? What happened here? We priced the risk!
 
 But most convertibles don't price the risk. If we look at the famous SAFE Note, investors set the interest rate at something a large corporate like IBM would pay (5%) and the company sells the  option for free. So our mechanics looks like this:
 
@@ -91,10 +91,10 @@ Hey, that looks just like the economics of an option!
 ### Misaligned Interests
 So why not just sell investors an option? The company sells employees options. The termsheet is even simpler than the supposedly "cheap and fast" convertible that people advertise. Well debt investors get some nice benefits over equity investors and option investors get no rights (no votes, no dividends). Debt investors get paid back before equity ones, and depending on the terms, can sometimes force a company that looks unlikely to pay back its debt to wind up and hand over the remaining cash.
 
-The bottom line is that different types of investors have different agendas:  
-> Debt investors are interested in getting paid back the money they have lent to the company, plus interest.  
-> Equity investors want to have a vote on management and are interested in the long-term financial health of the business.  
-> Option investors are only interested in seeing the share price go up beyond what they paid to turn a profit (speculation). This is regardless of whether or not the share price reflects the true value of the company.  
+The bottom line is that different types of investors have different agendas:    
+- Debt investors are interested in getting paid back the money they have lent to the company, plus interest.  
+- Equity investors want to have a vote on management and are interested in the long-term financial health of the business.  
+- Option investors are only interested in seeing the share price go up beyond what they paid to turn a profit (speculation). This is regardless of whether or not the share price reflects the true value of the company.  
 
 As a founder, your interests are only aligned with equity investors. Debt holders are trying to take your money away, and option investors are trying to unsustainably inflate your share price.
 
