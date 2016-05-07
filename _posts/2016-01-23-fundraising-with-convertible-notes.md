@@ -1,8 +1,9 @@
 ---
 layout: 	post
 date: 		2016-01-23 12:00:00
-title:		"Convertible notes are wrong"
-categories: fundraising
+title:		"Convertible notes are mispriced"
+cover:      /images/caution.jpg
+categories: [fundraising, startups]
 ---
 
 I met an investor today who suggested we consider raising money with a convertible note. He said it's super fast and we don't have to get into a valuation discussion. When I expressed my hesitation, he told me I was crazy and then proceeded to tell me how proud he was to have recently invested in a high profile seed-stage company with an uncapped convertible note. This is nuts. Let me explain why.
