@@ -5,13 +5,9 @@ meta_description: "Thoughts, experiences and theories"
 markdown: kramdown
 highlighter: rouge
 logo: true
-paginate: 20
+gems: [jekyll-paginate]
+paginate: 3
+paginate_path: "page:num"
 baseurl: /
 domain_name: 'http://'
 google_analytics: 'UA-68523005-1'
-
-# Details for the RSS feed generator
-url:            'http://muratabur.github.io'
-author:         'rubatarum'
-author_description:	'The author is present'
-
