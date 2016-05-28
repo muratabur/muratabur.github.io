@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: rouge
 logo: true
 gems: [jekyll-paginate]
-paginate: 3
+paginate: 10
 paginate_path: "page:num"
 baseurl: /
 domain_name: 'http://'
