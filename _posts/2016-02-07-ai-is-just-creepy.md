@@ -2,6 +2,7 @@
 layout: 	post
 date: 		2016-02-07 12:00:00
 title:		"AI is just creepy"
+cover:      images/cat-fear-computer.png
 categories: ai
 ---
 
