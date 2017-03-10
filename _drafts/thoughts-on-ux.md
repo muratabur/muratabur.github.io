@@ -6,3 +6,7 @@
 - FEEDBACK: Should be immediate, informative but not excessive.
 
 - CONCEPTUAL MODELS: conceptual model is an explanation, usually highly simplified, of how something works. It doesn’t have to be complete or even accurate as long as it is useful
+
+# DO NOT BLAME USERS FOR ERRORS
+- Do not show error messages
+- Do not impede work in progress, offer solutions to continue
