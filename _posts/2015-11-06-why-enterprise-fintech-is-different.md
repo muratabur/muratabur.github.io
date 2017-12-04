@@ -26,4 +26,3 @@ are selling their data back to them.
 Finally, large institutions face a barrage of regulations that they must comply with. Understand that regulation is simply a *process* that needs to be implemented their side. Similar to data privacy, processes are the backbone of any large organisation. make your solution fit with their processes where you can and where it doesn't explain how their processes can be improved with your solution.
 
 Given the fact that enterprise FinTech will tell you what they want, pay for it and openly describe processes (ie. solutions) they need to implement, it is wonder why this market is so under-served.
-
