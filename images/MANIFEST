@@ -1,0 +1,15 @@
+This zip file contains optimized resources for http://muratabur.github.io/. The optimized resources are listed below in the format of: 
+filename: url
+
+Note: We only include up to 10 MB of optimized contents. If the
+optimized contents of your page are larger than 10 MB, we list them in
+this file too, with 'NOT INCLUDED' to indicate those URLs require
+further optimization.
+
+css/screen.css: http://muratabur.github.io/assets/css/screen.css
+js/jquery.fitvids.js: http://muratabur.github.io/assets/js/jquery.fitvids.js
+js/index.js: http://muratabur.github.io/assets/js/index.js
+image/heads-down.jpg: http://muratabur.github.io/images/heads-down.jpg
+image/lego.jpg: http://muratabur.github.io/images/lego.jpg
+image/caution.jpg: http://muratabur.github.io/images/caution.jpg
+image/enterprise-fintech.jpg: http://muratabur.github.io/images/enterprise-fintech.jpg
